@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#StylishPortfolio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg");
+    width: 200vh;
+    height: 100vh;
+}
+
+.first-sec {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.firstH {
+    font-size: 5.5em;
+    padding: 10px;
+}
+
+em {
+    padding-bottom: 15px;
+    font-size: 1.5em;
+
+}
+
+.btnFirst {
+    width: 150px;
+    padding: 20px;
+    background-color: #1D809F;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin: 60px;
+}
+
+
+#secondSec {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200vh;
+    height: 50vh;
+}
+
+.second-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.btnSecond {
+    width: 150px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin: 60px;
+
+}
+
+h2 {
+    font-size: 3em;
+    padding: 20px;
+    padding-top: 10px;
+}
+
+.secondP {
+    font-size: larger;
+}
+
+#thirdSection {
+    background-color: #1D809F;
+    width: 200vh;
+    height: 50vh;
+}
+
+.third-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.thirdP {
+    color: rgb(211, 182, 15);
+    margin-top: 70px;
+
+}
+
+.thirdH {
+    font-size: 2.5em;
+    margin-top: 20px;
+    color: white;
+}
+
+.circle-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 60px;
+    
+
+}
+
+.icon {
+    background-color: white;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+h4 {
+    color: white;
+    font-size: 1.5em;
+    margin: 10px;
+}
+
+span {
+    color: rgb(170, 169, 169);
+    margin: 5px;
+}
+#fourthSec{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg");
+    width: 200vh;
+    height: 80vh;
+}
+.fourthDiv{
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    width: 150px;
+    padding: 20px;
+    background-color: #1D809F;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin: 60px;
+
+}
+.card-first{
+
+}
